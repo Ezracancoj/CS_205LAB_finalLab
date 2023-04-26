@@ -1,0 +1,30 @@
+Competitor[Name=Jack Score=80]
+Competitor[Name=Tiger Score=80]
+Competitor[Name=John Score=81]
+Competitor[Name=Justin Score=81]
+Competitor[Name=Brodie Score=92]
+Competitor[Name=Jim Score=93]
+Competitor[Name=Henrik Score=99]
+Competitor[Name=Pete Score=109]
+Competitor[Name=Sam Score=110]
+Competitor[Name=Joe Score=112]
+
+
+Competitor[Name=Jack Score=80]
+
+
+Competitor[Name=Tony Score=265]
+Competitor[Name=Will Score=265]
+Competitor[Name=Walter Score=270]
+Competitor[Name=Norm Score=279]
+Competitor[Name=Mark Score=291]
+Competitor[Name=Earl Score=292]
+Competitor[Name=Bill Score=277]
+Competitor[Name=Joe Score=282]
+Competitor[Name=Pete Score=280]
+Competitor[Name=Jim Score=292]
+
+
+Competitor[Name=Tiger Score=80]
+
+
